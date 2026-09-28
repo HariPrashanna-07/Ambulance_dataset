@@ -80,29 +80,6 @@ Restore Normal Traffic Cycle
 
 ---
 
-## 📥 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AutoSignal.git
-
-cd AutoSignal
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run
-
-```bash
-python main.py
-```
-
----
 
 ## 🧰 Requirements
 
@@ -112,12 +89,6 @@ python main.py
 - PyTorch
 - PySerial
 - NumPy
-
-Install manually
-
-```bash
-pip install ultralytics opencv-python torch torchvision pyserial numpy
-```
 
 ---
 
