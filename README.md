@@ -35,36 +35,6 @@ AutoSignal uses computer vision to monitor traffic intersections and identify ap
 | Communication | Serial (UART) |
 | IDE | VS Code |
 
----
-
-## 📂 Project Structure
-
-```
-AutoSignal
-│
-├── models/
-│   └── best.pt
-│
-├── detection/
-│   ├── detect.py
-│   ├── tracker.py
-│   └── utils.py
-│
-├── controller/
-│   ├── serial_controller.py
-│   └── esp32/
-│       └── traffic_controller.ino
-│
-├── videos/
-│
-├── outputs/
-│
-├── requirements.txt
-│
-├── README.md
-│
-└── main.py
-```
 
 ---
 
